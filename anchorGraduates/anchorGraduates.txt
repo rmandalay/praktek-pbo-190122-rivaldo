@@ -1,0 +1,11 @@
+// algoritma
+
+1. Input Nama
+2. Input Nilai
+3. Input Absen
+4. cek nilai >70 dan absen <5
+
+a. jika benar hasilnya Tampilkan Nama
+b. Jika tidak hasilnya Tampilan "maaf anda tidak lulus"
+
+5. selesai

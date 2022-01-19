@@ -1,0 +1,7 @@
+// algoritma
+
+1. INPUT jari-jari dengan angka
+2. INPUT PI dengan 3.14
+3. hitung "keliling lingkaran" = 2 kali pi kali jari-jari lingkaran
+4. tampilkan hasil keliling lingkaran
+5. selesai
